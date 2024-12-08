@@ -52,5 +52,5 @@
 
 **Stability Tweaks:**
 
-45. **[Mod 45](https://www.mixmods.com.br/2019/08/mod-mixsets.html)**
-46. **[Mod 46](https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html)**
+45. **[MixSets](https://www.mixmods.com.br/2019/08/mod-mixsets.html)**
+46. **[LargeAddress](https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html)**
