@@ -1,51 +1,29 @@
-Mods
+# GTA San Andreas Mods List
 
-Essentials:
-#1- https://www.gtagarage.com/mods/show.php?id=25377
-#2- https://cleo.li
-#3- https://github.com/ThirteenAG/III.VC.SA.LimitAdjuster/releases
-#4- https://www.gtagarage.com/mods/show.php?id=21709
-#5- https://gtaforums.com/topic/669045-silentpatch
-Mods:
-#6- https://www.gtainside.com/en/sanandreas/mods/131361-v-graphics
-#7- https://www.mediafire.com/file/adjxxwjvadfl5gi/enbseries+settings+by+Badinfos.zip/file
-#8- http://enbdev.com/download_mod_gtasa.htm
-#9- https://www.mixmods.com.br/2018/10/Project-Props.html
-#10- https://www.mixmods.com.br/2018/01/prop-vehicles-project-props-veiculos-melhorados-fix.html
-#11- https://www.mixmods.com.br/2017/02/project-behind-space-of-realities.html
-#12- https://www.mixmods.com.br/2022/01/rosa-project-evolved-remaster-texturas-hd
-#13- https://www.mixmods.com.br/2017/07/gta-v-hud-sa-visual-skin-hud-estilo-san-andreas.html
-#14- https://www.mixmods.com.br/2018/05/atmosphere-interface-pack-interface-hd.html
-#15- https://www.mixmods.com.br/2016/08/font-mobile-fixed-fonte-do-gta-sa.html
-#16- https://www.mediafire.com/file/37s8pz0rlc5buay/Story+Mode+2.0.rar/file
-#17- https://www.mediafire.com/file/28al3d38ln5utki/HDUniverseGTAVehiclesVX.7z/file
-#18- https://www.mixmods.com.br/2020/05/sa-cutscene-characters-for-gameplay.html
-#19- https://sharemods.com/sbq52x4mcbpe/New_Catalina.7z.html
-#20- https://mega.nz/folder/a54VHYBb#tZZq4jOzBflITPmak08HJw
-#21- https://www.gtagarage.com/mods/show.php?id=5596
-#22- https://www.mixmods.com.br/2017/07/insult-mod-mod-cleo-xingar.html
-#23- https://www.mixmods.com.br/2020/03/pre-lighting-fixes-pack.html
-#24- https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas.html
-#25- https://www.mixmods.com.br/2015/03/corvos-em-sa.html
-#26- https://www.mixmods.com.br/2019/06/peds-originais-variando-pedfuncs.html
-#27- https://www.mixmods.com.br/2018/11/PedFuncs.html
-#28- https://www.mixmods.com.br/2017/03/mod-ragdoll-bullet-physics-fisica-realista.html
-#29- https://www.mixmods.com.br/2020/07/PedSkills.html
-#30- https://www.mixmods.com.br/2017/05/armas-do-gta-iv.html
-#31- https://www.mixmods.com.br/2020/07/faithful-weapons-pack.html
-#32- https://www.mixmods.com.br/2015/05/karma-weapons-pack.html
-#33- https://www.mixmods.com.br/2018/12/90s-awp-90s-atmosphere-weapons-pack.html
-#34- https://www.mixmods.com.br/2016/08/real-chainsaw-upgrade.html
-#35- http://www.mediafire.com/file/5y6gqjog8g08epj/Sound_Pack_by_Matihuano.rar/file
-#36- https://www.mixmods.com.br/2020/09/advanced-aiming-mod-mira-no-ombro.html
-#37- https://www.mixmods.com.br/2020/05/weaponrecoil-auto.html
-#38- https://www.mixmods.com.br/2018/09/shot-cam-shake-tremer-tela-atira.html
-#39- https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-tiros.html
-#40- https://www.mixmods.com.br/2018/11/combat-fx-upgrade-novos-efeitos-hd.html
-#41- https://libertycity.net/files/gta-san-andreas/118914-krov-na-jekrane-kak-v-gta-v.html
-#42- https://www.mixmods.com.br/2020/02/taxi-ride-mod-chamar-taxi.html
-#43- https://www.mixmods.com.br/2020/01/clever-trams.html
-#44- https://www.mixmods.com.br/2018/09/securicar-drop-money-carros-forte.html
-Stability tweaks 
-#45- https://www.mixmods.com.br/2019/08/mod-mixsets.html
-#46- https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html
+## Essentials:
+1. [Silent's ASI Loader](https://www.gtagarage.com/mods/show.php?id=25377)  
+2. [CLEO Library](https://cleo.li)  
+3. [III.VC.SA Limit Adjuster](https://github.com/ThirteenAG/III.VC.SA.LimitAdjuster/releases)  
+4. [Mod Loader](https://www.gtagarage.com/mods/show.php?id=21709)  
+5. [SilentPatch](https://gtaforums.com/topic/669045-silentpatch)  
+
+## Mods:
+6. [V Graphics](https://www.gtainside.com/en/sanandreas/mods/131361-v-graphics)  
+7. [ENBSeries Settings by Badinfos](https://www.mediafire.com/file/adjxxwjvadfl5gi/enbseries+settings+by+Badinfos.zip/file)  
+8. [ENB Dev](http://enbdev.com/download_mod_gtasa.htm)  
+9. [Project Props](https://www.mixmods.com.br/2018/10/Project-Props.html)  
+10. [Prop Vehicles Project](https://www.mixmods.com.br/2018/01/prop-vehicles-project-props-veiculos-melhorados-fix.html)  
+11. [Project Behind Space of Realities](https://www.mixmods.com.br/2017/02/project-behind-space-of-realities.html)  
+12. [RoSA Project Evolved](https://www.mixmods.com.br/2022/01/rosa-project-evolved-remaster-texturas-hd)  
+13. [GTA V HUD](https://www.mixmods.com.br/2017/07/gta-v-hud-sa-visual-skin-hud-estilo-san-andreas.html)  
+14. [Atmosphere Interface Pack](https://www.mixmods.com.br/2018/05/atmosphere-interface-pack-interface-hd.html)  
+15. [Font Mobile Fixed](https://www.mixmods.com.br/2016/08/font-mobile-fixed-fonte-do-gta-sa.html)  
+16. [Story Mode 2.0](https://www.mediafire.com/file/37s8pz0rlc5buay/Story+Mode+2.0.rar/file)  
+17. [HD Universe GTA V Vehicles](https://www.mediafire.com/file/28al3d38ln5utki/HDUniverseGTAVehiclesVX.7z/file)  
+18. [SA Cutscene Characters for Gameplay](https://www.mixmods.com.br/2020/05/sa-cutscene-characters-for-gameplay.html)  
+19. [New Catalina](https://sharemods.com/sbq52x4mcbpe/New_Catalina.7z.html)  
+20. [Mod Pack](https://mega.nz/folder/a54VHYBb#tZZq4jOzBflITPmak08HJw)  
+
+## Stability Tweaks:
+45. [Mod MixSets](https://www.mixmods.com.br/2019/08/mod-mixsets.html)  
+46. [Large Address](https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html)
