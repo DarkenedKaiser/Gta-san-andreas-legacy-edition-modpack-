@@ -72,5 +72,5 @@ A curated list of 44 essential and additional mods to enhance your GTA San Andre
 ### Notes  
 This list combines graphical upgrades, gameplay improvements, and stability fixes to ensure a modernized yet stable GTA San Andreas experience.
 
-and for help join the [The discord server] https://discord.gg/QBAxFuPX
+and for help join the [the Discord server](https://discord.gg/QBAxFuPX)
 
