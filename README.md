@@ -7,7 +7,7 @@ A curated list of 44 essential and additional mods to enhance your GTA San Andre
 ---
 
 ## Essentials
-1. [Widescreen Fix](https://www.gtagarage.com/mods/show.php?id=25377)  
+1. [ModLoader](https://www.gtagarage.com/mods/show.php?id=25377)  
 2. [CLEO Library](https://cleo.li)  
 3. [Limit Adjuster](https://github.com/ThirteenAG/III.VC.SA.LimitAdjuster/releases)  
 4. [Silent’s ASI Loader](https://www.gtagarage.com/mods/show.php?id=21709)  
