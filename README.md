@@ -48,7 +48,7 @@ A curated list of 44 essential and additional mods to enhance your GTA San Andre
 30. [Karma Weapons Pack](https://www.mixmods.com.br/2015/05/karma-weapons-pack.html)  
 31. [90s Atmosphere Weapons Pack](https://www.mixmods.com.br/2018/12/90s-awp-90s-atmosphere-weapons-pack.html)  
 32. [Real Chainsaw Upgrade](https://www.mixmods.com.br/2016/08/real-chainsaw-upgrade.html)  
-33. [Sound Pack by Matihuano](http://www.mediafire.com/file/5y6gqjog8g08epj/Sound_Pack_by_Matihuano.rar/file)  
+33. [Weapons Sound Pack by Matihuano](http://www.mediafire.com/file/5y6gqjog8g08epj/Sound_Pack_by_Matihuano.rar/file)  
 
 ### Miscellaneous  
 34. [Advanced Aiming Mod](https://www.mixmods.com.br/2020/09/advanced-aiming-mod-mira-no-ombro.html)  
